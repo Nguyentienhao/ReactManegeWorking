@@ -1,0 +1,4 @@
+Note: 
+- localStorage : lưu dữ liệu lên tới 5 MB , mất đi khi xóa lịch sử, hay sử dụng js để xóa
+- SessionStorage: mất khi đóng trình duyệt: 
+    + các phương thức chính: _setItem('key', 'value'), _getItem('key'), _removeItem('key');

@@ -1,0 +1,40 @@
+.paddingIcon {
+    padding-left: 125px;
+}
+
+.paddingIcon1 {
+    padding-right: 5px;
+}
+
+.marginBottom {
+    margin-bottom: 8px;
+}
+
+.marginTop {
+    margin-top: 30px;
+}
+
+.colorhr {
+    background-color: burlywood;
+}
+
+.mr-5 {
+    margin-right: 5px;
+}
+
+.ml-150 {
+    margin-left: 220px;
+}
+
+.ml-5 {
+    margin-left: 5px;
+}
+
+.sortSelected::after {
+    content: '\f00c';
+    font-family: FontAwesome;
+    font-weight: normal;
+    font-style: normal;
+    margin: 0px 0px 0px 10px;
+    display: inline-block;
+}
